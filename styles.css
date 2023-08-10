@@ -93,6 +93,10 @@ p {
     border-color: #23015a;
 }
 
+#carousel {
+    padding: 1rem 0rem 2rem;
+}
+
 #carousel h2 {
     font-family: 'Baloo Paaji 2', cursive;
     color: #fff;
@@ -150,6 +154,10 @@ p {
     #carousel img {
         height: 10rem;
         width: 100%;
+    }
+
+    h2 {
+        font-size: 2.5rem;
     }
 }
 
